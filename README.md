@@ -13,6 +13,6 @@ Output of running compiled test file with input file name, as argument results i
  
  **in the near future**
  
- **sorting algorithms**
+ *sorting algorithms*
  
- **pattern searching**
+ *pattern searching*
