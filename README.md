@@ -12,5 +12,7 @@ Dictionaries are implemented using [splay tree](https://en.wikipedia.org/wiki/Sp
  Output of running test with input file name as argument results in creating log files for each dictionary. Each log file cntains information about amount of time that took insertion or query and number of elements.
  
  **in the near future
+ 
  *sorting algorithms
+ 
  *pattern searching
