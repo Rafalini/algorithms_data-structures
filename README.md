@@ -9,10 +9,10 @@ Dictionaries are implemented using [splay tree](https://en.wikipedia.org/wiki/Sp
 [AVL tree](https://en.wikipedia.org/wiki/AVL_tree)
  and tested using large (input1.txt, ~68 000 words) and very large inputs (input2.txt, ~891 000 words).
  
- Output of running test with input file name as argument results in creating log files for each dictionary. Each log file cntains information about amount of time that took insertion or query and number of elements.
+Output of running compiled test file with input file name, as argument results in creating log files for each dictionary. Each log file cntains information about amount of time that took insertion or query and number of elements.
  
- **in the near future
+ **in the near future**
  
- *sorting algorithms
+ **sorting algorithms**
  
- *pattern searching
+ **pattern searching**
