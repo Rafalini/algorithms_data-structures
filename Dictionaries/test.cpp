@@ -10,7 +10,7 @@
 #include "benchmark.h"
 
 /*!
-     * Inserts all words from input to AVL dictionary and STL map and check
+     * Inserts all words from input to AVL dictionary and STL map and check 
      * if values for given keys are the same
 */
 
@@ -44,7 +44,7 @@ void queryTest(std::vector<std::string> &words, const std::string nameOFfOutput)
     for (int i = 0; i < words.size(); i++) {
         if (i == chunkSize) {
             std::cout << i << std::endl;
-            Benchmark<std::chrono::nanoseconds> b(false);
+            Benchmark<std::chrono::nanoseconds> b(false);	
             for (int j = 0; j < i; j++)
                 dict.find(words[j]);
             output << chunkSize << ", " << b.elapsed()/double(i) << std::endl;

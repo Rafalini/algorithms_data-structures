@@ -1,7 +1,8 @@
 #include <iostream>
 #include <chrono>
 
-/*  Tool for benchmarking dictionary
+/*!
+ *  Tool for benchmarking dictionary
  *
  *  Examples of usage:
  *
